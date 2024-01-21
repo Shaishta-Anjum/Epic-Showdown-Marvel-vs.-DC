@@ -33,6 +33,6 @@ Explore the cinematic realms with **Epic Showdown: Marvel vs. DC Cinematic Unive
   - Movie title slicer for individual selections.
   - Year range slider for dynamic filtering based on release years.
 
-## Conclusion:
+## ![](https://github.com/Shaishta-Anjum/Epic-Showdown-Marvel-vs.-DC/blob/main/pics/icons8-trophy-48.png)Conclusion:
 
 Marvel emerges as the clear winner, showcasing its dominance with consistently higher worldwide earnings, substantial budgets, and superior audience ratings. This triumph is attributed to a winning combination of compelling storytelling, strategic investments, and sustained audience engagement.
