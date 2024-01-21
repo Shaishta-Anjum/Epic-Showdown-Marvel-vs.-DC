@@ -13,6 +13,14 @@ Explore the cinematic realms with **Epic Showdown: Marvel vs. DC Cinematic Unive
 - Average Metascore: Aggregated critical reviews
 - Average Movie Length: Indicates the typical duration
 
+## Insights:
+- Marvel consistently allocates substantial budgets to its film productions, emphasizing a commitment to delivering high-quality and visually impressive cinematic experiences.
+- Demonstrating global box office dominance, Marvel's films consistently outperform their DC counterparts, substantiating their broad and enduring audience appeal.
+- Marvel's movies consistently receive higher average ratings from both audiences and critics, reflecting the studio's adept storytelling and execution.
+- With a strategy focused on prolific output, Marvel releases a greater number of films compared to DC, ensuring a consistent and engaged audience base.
+- Marvel's flagship production, **"Avengers: Endgame"** has secured its position as the highest-grossing film globally in whole Marvel franchise, grossing $2.8 billion, overshadowing DC's top performer, **"Aquaman"**, which reached $1.1 billion.
+- Marvel's extensive cinematic portfolio of 23 films, coupled with higher average ratings, showcases a comprehensive and successful approach to building a superhero universe, whereas DC, with 16 releases, pursues a more measured strategy.
+
 ## Dashboard:
 
 ### Home Page:
